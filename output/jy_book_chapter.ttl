@@ -1,0 +1,1340 @@
+<http://myjinyongontology.info/she第十四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "桃花島主"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "14"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/14.htm" .
+
+<http://myjinyongontology.info/yi第三十九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "秘笈兵書此中藏"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "39"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/39.htm" .
+
+<http://myjinyongontology.info/yi第十五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "奇謀秘計夢一場"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "15"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/15.htm" .
+
+<http://myjinyongontology.info/shen第三十回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "離合無常"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "30"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/30.htm" .
+
+<http://myjinyongontology.info/yi第二十二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "群雄歸心約三章"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "22"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/22.htm" .
+
+<http://myjinyongontology.info/yi第十一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "有女長舌利如槍"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "11"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/11.htm" .
+
+<http://myjinyongontology.info/shen第五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "活死人墓"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "5"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/05.htm" .
+
+<http://myjinyongontology.info/yi第三十六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "夭矯三鬆郁青蒼"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "36"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/36.htm" .
+
+<http://myjinyongontology.info/yi第三十三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "簫長琴短衣流黃"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "33"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/33.htm" .
+
+<http://myjinyongontology.info/shen第一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "風月無情"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/01.htm" .
+
+<http://myjinyongontology.info/Shen_Diao>
+        a       <https://schema.org/Book> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "神雕俠侶"@zh ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/" .
+
+<http://myjinyongontology.info/she第十二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "亢龍有悔"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "12"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/12.htm" .
+
+<http://myjinyongontology.info/yi第二十七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "百尺高塔任迴翔"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "27"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/27.htm" .
+
+<http://myjinyongontology.info/shen第十回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "少年英俠"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "10"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/10.htm" .
+
+<http://myjinyongontology.info/she第十七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "雙手互搏"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "17"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/17.htm" .
+
+<http://myjinyongontology.info/yi第三十五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "屠獅有會孰為殃"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "35"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/35.htm" .
+
+<http://myjinyongontology.info/yi第三十一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "刀劍齊失人云亡"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "31"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/31.htm" .
+
+<http://myjinyongontology.info/shen第三十四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "排難解紛"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "34"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/34.htm" .
+
+<http://myjinyongontology.info/she第八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "各顯神通"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "8"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/08.htm" .
+
+<http://myjinyongontology.info/she第三十八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "錦囊密令"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "38"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/38.htm" .
+
+<http://myjinyongontology.info/shen第三十二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "情是何物"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "32"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/32.htm" .
+
+<http://myjinyongontology.info/she第二十四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "密室療傷"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "24"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/24.htm" .
+
+<http://myjinyongontology.info/shen第三十七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "三世恩怨"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "37"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/37.htm" .
+
+<http://myjinyongontology.info/she第九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "鐵槍破犁"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "9"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/09.htm" .
+
+<http://myjinyongontology.info/she第三十九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "是非善惡"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "39"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/39.htm" .
+
+<http://myjinyongontology.info/yi第二十八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "恩斷義絕紫衫王"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "28"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/28.htm" .
+
+<http://myjinyongontology.info/she第二十二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "騎鯊遨遊"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "22"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/22.htm" .
+
+<http://myjinyongontology.info/she第六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "崖頂疑陣"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "6"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/06.htm" .
+
+<http://myjinyongontology.info/she第三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "大漠風沙"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/03.htm" .
+
+<http://myjinyongontology.info/she第三十六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "大軍西征"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "36"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/36.htm" .
+
+<http://myjinyongontology.info/she第十八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "三道試題"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "18"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/18.htm" .
+
+<http://myjinyongontology.info/she第三十三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "來日大難"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "33"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/33.htm" .
+
+<http://myjinyongontology.info/she第二十七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "軒轅台前"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "27"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/27.htm" .
+
+<http://myjinyongontology.info/yi第二十九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "四女同舟何所望"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "29"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/29.htm" .
+
+<http://myjinyongontology.info/yi第四十Ｏ回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "不識張郎是張郎"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "40"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/40.htm" .
+
+<http://myjinyongontology.info/yi第二十六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "俊貌玉面甘毀傷"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "26"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/26.htm" .
+
+<http://myjinyongontology.info/she第五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "彎弓射鵰"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "5"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/05.htm" .
+
+<http://myjinyongontology.info/shen第二十回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "俠之大者"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "20"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/20.htm" .
+
+<http://myjinyongontology.info/she第一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "風雪驚變"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/01.htm" .
+
+<http://myjinyongontology.info/she第十九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "洪濤群鯊"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "19"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/19.htm" .
+
+<http://myjinyongontology.info/she第三十五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "鐵槍廟中"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "35"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/35.htm" .
+
+<http://myjinyongontology.info/yi第二十三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "靈芙醉客綠柳莊"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "23"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/23.htm" .
+
+<http://myjinyongontology.info/she第三十一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "鴦鴛錦帕"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "31"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/31.htm" .
+
+<http://myjinyongontology.info/She_Diao>
+        a       <https://schema.org/Book> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "射雕英雄傳"@zh ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/" .
+
+<http://myjinyongontology.info/she第十回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "冤家聚頭"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "10"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/10.htm" .
+
+<http://myjinyongontology.info/she第十六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "九陰真經"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "16"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/16.htm" .
+
+<http://myjinyongontology.info/she第十三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "五湖廢人"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "13"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/13.htm" .
+
+<http://myjinyongontology.info/yi第二十五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "舉火燎天何煌煌"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "25"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/25.htm" .
+
+<http://myjinyongontology.info/shen第三十八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "生死茫茫"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "38"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/38.htm" .
+
+<http://myjinyongontology.info/yi第三十回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "東西永隔如參商"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "30"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/30.htm" .
+
+<http://myjinyongontology.info/yi第二十一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "排難解紛當六強"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "21"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/21.htm" .
+
+<http://myjinyongontology.info/she第十五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "神龍擺尾"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "15"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/15.htm" .
+
+<http://myjinyongontology.info/she第十一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "長春服輸"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "11"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/11.htm" .
+
+<http://myjinyongontology.info/shen第二十四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "意亂情迷"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "24"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/24.htm" .
+
+<http://myjinyongontology.info/yi第四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "字作喪亂意彷徨"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/04.htm" .
+
+<http://myjinyongontology.info/she第二十八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "鐵掌峰頂"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "28"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/28.htm" .
+
+<http://myjinyongontology.info/shen第十四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "禮教大防"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "14"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/14.htm" .
+
+<http://myjinyongontology.info/shen第三十九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "大戰襄陽"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "39"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/39.htm" .
+
+<http://myjinyongontology.info/shen第二十二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "危城女嬰"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "22"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/22.htm" .
+
+<http://myjinyongontology.info/yi第二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "武當山頂松柏長"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/02.htm" .
+
+<http://myjinyongontology.info/shen第三十六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "獻禮祝壽"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "36"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/36.htm" .
+
+<http://myjinyongontology.info/shen第三十三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "風陵夜話"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "33"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/33.htm" .
+
+<http://myjinyongontology.info/shen第十二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "英雄大宴"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "12"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/12.htm" .
+
+<http://myjinyongontology.info/shen第二十七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "鬥智鬥力"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "27"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/27.htm" .
+
+<http://myjinyongontology.info/yi第七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "誰送冰舸來仙鄉"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "7"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/07.htm" .
+
+<http://myjinyongontology.info/she第二十九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "黑沼隱女"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "29"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/29.htm" .
+
+<http://myjinyongontology.info/shen第十七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "絕情幽谷"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "17"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/17.htm" .
+
+<http://myjinyongontology.info/she第三十回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "一燈大師"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "30"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/30.htm" .
+
+<http://myjinyongontology.info/she第二十六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "新盟舊約"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "26"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/26.htm" .
+
+<http://myjinyongontology.info/she第二十三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "大鬧禁宮"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "23"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/23.htm" .
+
+<http://myjinyongontology.info/shen第三十五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "三枚金針"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "35"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/35.htm" .
+
+<http://myjinyongontology.info/shen第三十一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "半枚靈丹"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "31"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/31.htm" .
+
+<http://myjinyongontology.info/yi第十四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "當道時見中山狼"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "14"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/14.htm" .
+
+<http://myjinyongontology.info/shen第四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "全真門下"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/04.htm" .
+
+<http://myjinyongontology.info/she第二十五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "荒村野店"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "25"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/25.htm" .
+
+<http://myjinyongontology.info/she第二十一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "千鈞巨岩"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "21"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/21.htm" .
+
+<http://myjinyongontology.info/yi第十二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "針其膏兮藥其肓"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "12"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/12.htm" .
+
+<http://myjinyongontology.info/shen第二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "故人之子"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/02.htm" .
+
+<http://myjinyongontology.info/yi第十七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "青翼出沒一笑揚"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "17"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/17.htm" .
+
+<http://myjinyongontology.info/shen第七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "重陽遺刻"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "7"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/07.htm" .
+
+<http://myjinyongontology.info/she第四十回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "華山論劍"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "40"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/40.htm" .
+
+<http://myjinyongontology.info/yi第三十四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "新婦素手裂紅裳"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "34"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/34.htm" .
+
+<http://myjinyongontology.info/shen第二十八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "洞房花燭"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "28"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/28.htm" .
+
+<http://myjinyongontology.info/yi第八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "窮發十載泛歸航"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "8"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/08.htm" .
+
+<http://myjinyongontology.info/yi第二十回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "與子共穴相扶將"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "20"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/20.htm" .
+
+<http://myjinyongontology.info/shen第十八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "公孫谷主"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "18"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/18.htm" .
+
+<http://myjinyongontology.info/yi第三十二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "冤蒙不白愁欲狂"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "32"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/32.htm" .
+
+<http://myjinyongontology.info/yi第三十七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "天下英雄莫能當"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "37"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/37.htm" .
+
+<http://myjinyongontology.info/shen第二十九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "劫難重重"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "29"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/29.htm" .
+
+<http://myjinyongontology.info/yi第九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "七俠聚會樂未央"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "9"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/09.htm" .
+
+<http://myjinyongontology.info/shen第十九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "地底老婦"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "19"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/19.htm" .
+
+<http://myjinyongontology.info/shen第四十Ｏ回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "華山之巔"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "40"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/40.htm" .
+
+<http://myjinyongontology.info/shen第二十六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "神鵰重劍"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "26"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/26.htm" .
+
+<http://myjinyongontology.info/shen第二十三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "手足情仇"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "23"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/23.htm" .
+
+<http://myjinyongontology.info/yi第六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "浮槎北溟海茫茫"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "6"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/06.htm" .
+
+<http://myjinyongontology.info/yi第三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "寶刀百煉生玄光"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/03.htm" .
+
+<http://myjinyongontology.info/shen第十六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "殺父深仇"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "16"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/16.htm" .
+
+<http://myjinyongontology.info/shen第十三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "武林盟主"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "13"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/13.htm" .
+
+<http://myjinyongontology.info/yi第十八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "倚天長劍飛寒鋩"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "18"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/18.htm" .
+
+<http://myjinyongontology.info/yi第五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "皓臂似玉梅花妝"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "5"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/05.htm" .
+
+<http://myjinyongontology.info/shen第二十五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "內憂外患"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "25"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/25.htm" .
+
+<http://myjinyongontology.info/she第二十回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "竄改經文"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "20"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/20.htm" .
+
+<http://myjinyongontology.info/shen第八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "白衣少女"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "8"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/08.htm" .
+
+<http://myjinyongontology.info/shen第二十一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "襄陽鏖兵"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "21"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/21.htm" .
+
+<http://myjinyongontology.info/yi第一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "天涯思君不可忘"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/01.htm" .
+
+<http://myjinyongontology.info/shen第十五回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "東邪門人"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "15"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/15.htm" .
+
+<http://myjinyongontology.info/shen第十一回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "百計避敵"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "11"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/11.htm" .
+
+<http://myjinyongontology.info/she第四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "黑風雙煞"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/04.htm" .
+
+<http://myjinyongontology.info/yi第十回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "百歲壽宴摧肝腸"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "10"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/10.htm" .
+
+<http://myjinyongontology.info/she第三十四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "島上巨變"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "34"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/34.htm" .
+
+<http://myjinyongontology.info/yi第十九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "禍起蕭牆破金湯"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "19"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/19.htm" .
+
+<http://myjinyongontology.info/shen第九回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "百計避敵"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "9"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/09.htm" .
+
+<http://myjinyongontology.info/she第二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "江南七怪"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/02.htm" .
+
+<http://myjinyongontology.info/yi第三十八回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "君子可欺之以方"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "38"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/38.htm" .
+
+<http://myjinyongontology.info/yi第十六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "剝極而復參九陽"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "16"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/16.htm" .
+
+<http://myjinyongontology.info/yi第十三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "不悔仲子逾我牆"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "13"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/13.htm" .
+
+<http://myjinyongontology.info/she第三十二回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "湍江險灘"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "32"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/32.htm" .
+
+<http://myjinyongontology.info/shen第六回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "玉女心經"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "6"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/06.htm" .
+
+<http://myjinyongontology.info/shen第三回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "求師終南"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Shen_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/shen/03.htm" .
+
+<http://myjinyongontology.info/she第七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "比武招親"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "7"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/07.htm" .
+
+<http://myjinyongontology.info/Yi_Tian>
+        a       <https://schema.org/Book> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "倚天屠龍記"@zh ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/" .
+
+<http://myjinyongontology.info/she第三十七回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "從天而降"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "37"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/She_Diao> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/she/37.htm" .
+
+<http://myjinyongontology.info/yi第二十四回>
+        a       <https://schema.org/Chapter> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "太極初傳柔克剛"@zh ;
+        <http://myjinyongontology.info/chapter_number>
+                "24"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        <http://myjinyongontology.info/chapter_of>
+                <http://myjinyongontology.info/Yi_Tian> ;
+        <http://www.w3.org/2002/07/owl#sameAs>
+                "https://fpsother.tripod.com/yi/24.htm" .
