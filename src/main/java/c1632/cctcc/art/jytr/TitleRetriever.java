@@ -48,8 +48,10 @@ public class TitleRetriever {
     );
 
     var model = ModelFactory.createDefaultModel();
+    model.setNsPrefix("", "http://myjinyongontology.info/");
 
-    var chapter_of = model.createProperty(jy, "chapter_of");
+    var chapter_of = model.createProperty(schema, "isPartOf");
+    var chapter_name = model.createProperty(schema, "name");
     var chapter_number = model.createProperty(jy, "chapter_number");
 
     var book = model.createResource(schema + "Book");
@@ -65,9 +67,10 @@ public class TitleRetriever {
       chapters.stream()
               .peek(System.out::println)
               .forEach(ch -> {
-                model.createResource(jy + book_key + ch.getNumber(), book_chapter)
+                model.createResource(jy + book_key + "_ch_" + ch.getOrder(), book_chapter)
                         .addProperty(chapter_of, jy_book)
                         .addLiteral(RDFS.label, model.createLiteral(ch.getTitle(), "zh"))
+                        .addLiteral(chapter_name, model.createLiteral(ch.getTitle(), "zh"))
                         .addLiteral(chapter_number, model.createTypedLiteral(ch.getOrder()))
                         .addLiteral(OWL2.sameAs, ch.getUrl());
               });
